@@ -61,6 +61,9 @@ To update Angular CLI to a new version, you must update both the global package 
 - [zone.js](https://ghub.io/zone.js): Zones for JavaScript
 - [@ng-bootstrap/ng-bootstrap](https://ghub.io/@ng-bootstrap/ng-bootstrap): Angular powered Bootstrap
 
+### Temporary
+Dependencies required for firebase mentioned in package json
+
 ## Dev Dependencies
 - [@angular-devkit/build-angular](https://github.com/angular/angular-cli): DevKit's goal is to provide a large set of libraries that can be used to manage, develop, deploy and analyze your code.
 - [@angular/cli](https://ghub.io/@angular/cli): CLI tool for Angular
